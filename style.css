@@ -137,6 +137,10 @@ footer {
     * Damaged buttons.
     * Change font type accordingly.
     * Crack in the screen.
+    [] Add styling for text in the screen rows (opacity, font-size etc.)
+    [] Add styling (animation, hover, active etc.) for buttons.
+    [] Add styling for backgrounds.
+      [] Add one time activation on hover for desktop only.
   [] Add Github reference and the current year to the footer.
   [] On mobile, make it fullscreen and adjust to the screen.
 */
