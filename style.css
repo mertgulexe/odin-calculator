@@ -93,7 +93,7 @@ main {
   border: 1px solid #e4d500;
 }
 
-.button-frame .row .button {
+.button-frame .row button {
   height: 70px;
   width: 70px;
   border: 3px solid #00000069;
@@ -113,7 +113,7 @@ main {
   */
 }
 
-.button-frame .row:last-child .button:last-child {
+.button-frame .row:last-child button:last-child {
   flex: 2;
 }
 
@@ -126,3 +126,17 @@ footer {
   width: 100%;
   background-color: #ff8a7b;
 }
+
+/* TODO:
+  [] Switch to grid structure in the future.
+    * See the comment in `.button-frame .row:last-child`.
+  [] Add "data-", "value" etc. to the buttons in HTML.
+  [] Change 'C' button with <x symbol.
+  [] Remove the temporary styling and change it to the Half-Life idea.
+    * Rusty background.
+    * Damaged buttons.
+    * Change font type accordingly.
+    * Crack in the screen.
+  [] Add Github reference and the current year to the footer.
+  [] On mobile, make it fullscreen and adjust to the screen.
+*/
