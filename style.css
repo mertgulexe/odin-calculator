@@ -80,6 +80,7 @@ main {
   margin: 30px;
   padding: 0.25rem;
   border-radius: 10px;
+  user-select: none; /* This prevents text selection. */
 }
 
 .button-frame .row {
