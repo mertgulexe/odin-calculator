@@ -40,7 +40,7 @@ main {
   height: 600px;
   width: 400px;
   background-color: #0ebea7;
-  border: 5px solid #ff0000;
+  border: 5px solid #ff0000b7;
   border-radius: 15px;
   box-shadow: 0 0 50px rgba(255, 110, 110, 0.75);
 }
@@ -62,7 +62,7 @@ main {
   justify-content: end;
   align-items: center;
   margin: 5px 15px;
-  border: 1px solid #000000;
+  border: 1px solid #0000004b;
 }
 
 .screen .upper-row {
@@ -95,7 +95,7 @@ main {
 .button-frame .row .button {
   height: 70px;
   width: 70px;
-  border: 3px solid #000000;
+  border: 3px solid #00000069;
   display: flex;
   justify-content: center;
   align-items: center;
